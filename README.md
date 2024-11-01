@@ -1,21 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-deno run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[![Build Status](https://github.com/phansch/image-streamer/actions/workflows/deno.yml/badge.svg)](https://github.com/phansch/image-streamer/actions/workflows/deno.yml)
 
 ## Goals
 
 * Updating my frontend skills
   * Learning some Typescript
   * Learning some Tailwind CSS
+  * Learning a tiny bit of NextJS
   * Trying out deno
 * Rewriting a 10 year old project
+
+## Development
+
+Run the development server and open [http://localhost:3000](http://localhost:3000):
+
+```bash
+deno run dev
+```
